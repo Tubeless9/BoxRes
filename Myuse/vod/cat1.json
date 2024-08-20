@@ -47,7 +47,7 @@
       "key": "非凡资源",
       "name": "🥑非凡资源",
       "type": 1,
-      "api": "http://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
